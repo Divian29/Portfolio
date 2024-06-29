@@ -1,15 +1,15 @@
 const logotext = "Ikejiuba Olivia Chidiogo";
 const meta = {
     title: "Ikejiuba Olivia Chidiogo",
-    description: "I’m Ikejiuba Oivia Chidiogo, a Java Developer ",
+    description: "I’m Ikejiuba Olivia Chidiogo, a Java Developer ",
 };
 
 const introdata = {
-    title: "I’m Ikejiuba Chidiogo Olivia",
+    title: "Hello, I’m Ikejiuba Chidiogo Olivia",
     animated: {
         first: "I love coding",
-        second: "I code Java/SpringBoot",
-        third: "I develop integrated and secure backend System",
+        second: "I code Java/SpringBoot and Reactjs",
+        third: "I develop integrated and secured application",
         fourth: "My Code orchestration breathe life into every project, I am the one for the job."
     },
     description: "",
@@ -50,7 +50,7 @@ const skills = [{
         value: 100,
     },
     {
-        name: "AWS/AZURE/GCP",
+        name: "REACTJS",
         value: 100,
     },
     {
@@ -72,8 +72,8 @@ const skills = [{
 ];
 
 const services = [{
-        title: "Backend Developer",
-        description: "As an accomplished Backend Developer specializing in Java, Spring Boot, and microservices architecture, I excel in orchestrating the core functionality of digital ecosystems. With a precise blend of innovation, I design server-side solutions for high-performance applications.\n\nMy expertise in Java and Spring Boot allows me to create scalable backend solutions, including the development of RESTful APIs and the design of flexible microservices architectures. I adeptly manage relational databases like MySQL and PostgreSQL for data integrity and efficiency.\n\nCollaboration is integral to my approach, working seamlessly with DevOps teams to ensure continuous integration and deployment. I am proficient in troubleshooting bottlenecks and implementing new features with a focus on performance and scalability.\n\nCommitted to staying current with industry best practices, I stay informed about security standards and the latest advancements in backend technologies."
+        title: "Software Developer",
+        description: "As an accomplished Software Developer specializing in ,Java, ReactJs, Spring Boot and microservices architecture, I excel in orchestrating the core functionality of digital ecosystems. With a precise blend of innovation.\n\nMy expertise in Java and Spring Boot allows me to create scalable backend solutions, including the development of RESTful APIs and the design of flexible microservices architectures. I adeptly manage relational databases like MySQL and PostgreSQL for data integrity and efficiency.\n\nCollaboration is integral to my approach, working seamlessly with DevOps teams to ensure continuous integration and deployment. I am proficient in troubleshooting bottlenecks and implementing new features with a focus on performance and scalability.\n\nCommitted to staying current with industry best practices, I stay informed about security standards and the latest advancements in backend technologies."
     },
 
     // {
@@ -84,24 +84,29 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/407462985_6182605395174381_3220541341405342605_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=xG5yu6jrSfkAX8QRGp_&_nc_ht=scontent-los2-1.xx&oh=00_AfAVUqq_pRtXlKnmbWKEM3sc9sLrRQAhJKl4afa2n61dRA&oe=656E920C",
-        description: "Logistic App with Java as backend and Flutter for Mobile",
-        link: "https://play.google.com/store/apps/details?id=ng.ridex.user  ",
-    },
+        description: "Nutrifit app built with Reacjs",
+        link: "https://nutrifit-six.vercel.app",
+     },
     {
         img: "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/406651514_6182681931833394_4760269935540393507_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=5NAkroLIXzQAX8FC5bW&_nc_ht=scontent-los2-1.xx&oh=00_AfB4IpUFMaw-kzH0LQZJFm02YcqxS1NWX7xGuJzfLLI6tg&oe=656E855C",
         description: "Books-ville app with Java and React",
-        link: "#",
+        link: "https://github.com/Divian29/Books-ville",
     },
     {
         img: "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/399336547_6182680675166853_6560042604224829015_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=26BFx6kkFn0AX_l9z7F&_nc_ht=scontent-los2-1.xx&oh=00_AfCmM3HZB-C2MP-F0SJ3BXusDOmyR1NuHeolBHiCF0CD6w&oe=656DDA01",
         description:  "Job-Hiring app with Java and React",
-        link: "#",
+        link: "https://github.com/Divian29/job-hiring-app-frontend",
 
     },
     {
         img: "        https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/407373278_6182627215172199_105655842733005210_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=ifpR8GUPFEwAX-ik7lH&_nc_ht=scontent-los2-1.xx&oh=00_AfCAGBZUV3PquB2_nqPlJyduoyoS1AEFkXayjhq-RcevmQ&oe=656D47A1",
-        description: "Alpha Bank Fintech App with Java/React/flutter ",
-        link: "#",
+        description: "An online voting app built with Springboot ",
+        link: "https://github.com/Divian29/vote-forge",
+    },
+    {
+        img: "        https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/407373278_6182627215172199_105655842733005210_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=ifpR8GUPFEwAX-ik7lH&_nc_ht=scontent-los2-1.xx&oh=00_AfCAGBZUV3PquB2_nqPlJyduoyoS1AEFkXayjhq-RcevmQ&oe=656D47A1",
+        description: "A fashion blog app built with springboot ",
+        link: "https://github.com/Divian29/fashion",
     },
 
 ];
