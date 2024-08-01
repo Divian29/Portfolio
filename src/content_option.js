@@ -84,7 +84,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/407462985_6182605395174381_3220541341405342605_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=xG5yu6jrSfkAX8QRGp_&_nc_ht=scontent-los2-1.xx&oh=00_AfAVUqq_pRtXlKnmbWKEM3sc9sLrRQAhJKl4afa2n61dRA&oe=656E920C",
-        description: "Nutrifit app built with Reacjs",
+        description: "Nutrifit app built with Reactjs",
         link: "https://nutrifit-six.vercel.app",
      },
     {
